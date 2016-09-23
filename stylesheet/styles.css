@@ -1,4 +1,6 @@
-body{ background-color: #89cff0;} 
+body{ background-color: #89cff0; 
+	 style="text-align:center";
+} 
 p { color: purple; 
 	font-style: italic;
 	text-shadow: 2px 2px 8px black;
